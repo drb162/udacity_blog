@@ -8,7 +8,7 @@
 
 [Results](#Results)
 
-[Results](#Acknowledgements)
+[Acknowledgements](#Acknowledgements)
 
 
 <h1> Installation </h1> <a name="Installation"/>
